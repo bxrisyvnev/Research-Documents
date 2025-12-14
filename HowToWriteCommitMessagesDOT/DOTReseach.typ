@@ -24,35 +24,31 @@ This question aims for a practical, actionable outcome rather than theoretical i
 \
 The Development-Oriented Triangulation (DOT) framework organizes research into three aspects:
 
-What? (Different domains of knowledge)
-
-Why? (Justification and trade-offs)
-
-How? (Research strategies and methods)
-ICT Research Methods
+- What? (Different domains of knowledge)
+- Why? (Justification and trade-offs)
+- How? (Research strategies and methods)
+#align(right)[
+  #styled-link("https://ictresearchmethods.nl/dot-framework/?utm_source=chatgpt.com")[ICT Research Methodologyi] \
+]
 
 We focus on:
 
-Application domain: commit messages in software development
+- Application domain: commit messages in software development
+- Available work: existing guidelines, conventions, best practices
+- Innovation domain: synthesizing guidelines into a clear practical method
 
-Available work: existing guidelines, conventions, best practices
-
-Innovation domain: synthesizing guidelines into a clear practical method
-
-Why these methods?
+= Why these methods?
 
 To understand how to write commit messages, we combine methods that provide:
 
-theoretical foundation (Library methods)
-
-real-world interaction and patterns (Field methods)
-
-structured task understanding (Field task analysis)
+- theoretical foundation (Library methods)
+- real-world interaction and patterns (Field methods)
+- structured task understanding (Field task analysis)
 
 Using more than one method improves confidence (triangulation).
 ICT Research Methods
 
-3. Research Methods
+= 3. Research Methods
 
 We apply the DOT framework by selecting multiple complementary methods:
 
