@@ -146,3 +146,4 @@ Using the DOT framework allowed this research to anchor guidelines in:
 - preliminary validation of clarity improvements (Lab insights)
 
 The result is a practical, evidenced guideline for writing Git commit messages that helps teams document their work clearly and consistently.
+#image("img/commitMessage.png")
