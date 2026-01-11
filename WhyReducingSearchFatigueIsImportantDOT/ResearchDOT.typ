@@ -3,12 +3,8 @@
 ]
 
 #align(center, text(17pt)[
-  = How to Write Commit Messages
+= Why Reducing Search Fatigue is Important
 ])
-
-#align(center)[
-Why Reducing Search Fatigue is Important
-]
 \
 = 1. What – Domain Research
 
